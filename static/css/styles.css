@@ -123,6 +123,12 @@ body{
       bottom:0px;
       width:40%;
       background-color:black;
+      img{
+        border-radius:50%;
+        aspect-ratio: 1/1;
+        
+        
+      }
       
     }
   }
