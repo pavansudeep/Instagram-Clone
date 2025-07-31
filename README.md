@@ -1,1 +1,1 @@
-Created a instragram profile page using html and css only
+puuCreated a instragram profile page using html and css only
