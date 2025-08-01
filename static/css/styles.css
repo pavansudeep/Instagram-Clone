@@ -63,8 +63,11 @@ body{
   .buttons{
     display:flex;
     
-    
-    
+ /* 
+ button:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease;
+}*/
     
    button{
     width:1000px;
@@ -87,6 +90,12 @@ body{
     div.post-header{
       display:flex;
       justify-content: space-around;
+      i:hover{
+                 
+          transform: scale(1.2);
+          transition: transform 0.2s ease;
+        }
+      }
 
     
     }
@@ -117,6 +126,8 @@ body{
 
   }
   footer{
+     
+
     div.bottom{
       display:flex;
       flex-direction:row;
@@ -134,6 +145,10 @@ body{
         
         
       }
+      i:hover{
+         transform: scale(1.2  );
+      transition: transform 0.2s ease;
+    }
       
     }
   }
@@ -142,7 +157,7 @@ body{
  
  
     
-}
+
 
 
 
